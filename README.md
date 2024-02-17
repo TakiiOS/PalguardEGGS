@@ -1,5 +1,6 @@
 
-Pterodactyl Eggs with PalGuard for Palworld
+**Pterodactyl Eggs with PalGuard for Palworld**
+
 This repository contains Pterodactyl eggs that include PalGuard, a comprehensive anti-cheat solution for Palworld servers.
 
 About PalGuard
