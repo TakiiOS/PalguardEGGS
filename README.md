@@ -32,6 +32,6 @@ To install PalGuard on your Pterodactyl server, follow these steps:
 
 ## Support
 
-For support or inquiries, please contact the PalGuard team at [Discord](https://discord.gg/palguard) Mentionned @.Kaws. .
+For support or inquiries on the eggs use github issues with \Pal\Saved\Crashes\*random numbers*\CrashContext.runtime-xml file + palguard version used + log from Pal\Binaries\Win64\logs folder.
 
 **Special thanks for https://github.com/CuteNatalie for main code of steamcmd wine.**
